@@ -31,8 +31,6 @@ This is a basic Node.js task manager application with authentication.
 
 Please note that the above file structure assumes that the `src` folder is located at the root of the project. Adjust the file paths and structure according to your specific project setup.
 
-Feel free to update and customize the markdown file as needed to match your application's structure and requirements.
-
 ## Dependencies
 
 - express: Fast and minimalist web framework for Node.js
