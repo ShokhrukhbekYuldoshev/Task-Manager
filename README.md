@@ -38,6 +38,7 @@ Please note that the above file structure assumes that the `src` folder is locat
 - bcryptjs: Library for hashing passwords
 - jsonwebtoken: JSON Web Token implementation
 - dotenv: Loads environment variables from a `.env` file
+- validator: Library for validating different types of data, such as email addresses, URLs, credit card numbers, and more
 
 ## Usage
 
