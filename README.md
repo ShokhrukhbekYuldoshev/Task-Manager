@@ -1,6 +1,6 @@
-# Node.js Task Manager
+# Node.js Task Manager API
 
-This is a basic Node.js task manager application with authentication.
+This is a basic Node.js task manager API with authentication.
 
 ## File Structure
 
